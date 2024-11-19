@@ -67,7 +67,7 @@ source .venv/bin/activate  # For macOS/Linux
 
 ### Step 2: Run the Application
 ```bash
-python app.py
+streamlit run app.py
 ```
 
 ### Step 3: Input Data
